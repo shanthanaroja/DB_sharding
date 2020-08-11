@@ -1,0 +1,5 @@
+Database sharding in AWS:
+
+-When the capacity of the instance is too high then we can run multiple database in same instance
+-It is the horizontal partition of Database.
+-Each partition is a shar i.e seperate virtual DB instance.
